@@ -15,8 +15,8 @@ The "Agile and Scrum" document explains the Agile methodology and Scrum framewor
 - **Benefits of Agile and Scrum**: Advantages of using Agile and Scrum in software development, such as improved product quality, increased customer satisfaction, and better project visibility.
 
 
-<img src="agile.webp" alt="Agile image" width="500" height="500">
-<img src="Scrum1.png" alt="Scrum image" width="500" height="500">
+<img src="agile.webp" alt="Agile image" width="600" height="300">
+<img src="Scrum1.png" alt="Scrum image" width="600" height="300">
 
 ## Software Development Life Cycle (SDLC)
 
@@ -26,4 +26,4 @@ The "Software Development Life Cycle" document provides an in-depth look at the 
 - **Models of SDLC**: Different models of the SDLC, such as Waterfall, V-Model, Incremental, and Agile, and their respective advantages and disadvantages.
 - **Best Practices**: Recommended best practices for each phase of the SDLC to ensure the successful delivery of high-quality software projects.
 
-<img src="SDLC.png" alt="SDLC image" width="500" height="500">
+<img src="SDLC.png" alt="SDLC image" width="600" height="300">
