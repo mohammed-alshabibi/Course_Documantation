@@ -14,7 +14,8 @@ The "Agile and Scrum" document explains the Agile methodology and Scrum framewor
 - **Scrum Framework**: An overview of Scrum, including roles (Scrum Master, Product Owner, Development Team), artifacts (Product Backlog, Sprint Backlog, Increment), and events (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective).
 - **Benefits of Agile and Scrum**: Advantages of using Agile and Scrum in software development, such as improved product quality, increased customer satisfaction, and better project visibility.
 
-![Agile image](agile.webp)
+
+<img src="agile.webp" alt="Agile image" width="500" height="300">
 ![Scrum image](Scrum1.png)
 ## Software Development Life Cycle (SDLC)
 
