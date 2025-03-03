@@ -6,7 +6,7 @@
 - [Agile and Scrum](#agile-and-scrum)
 - [Software Development Life Cycle (SDLC)](#software-development-life-cycle-sdlc)
 
-  ## Agile and Scrum
+## Agile and Scrum
 
 The "Agile and Scrum" document explains the Agile methodology and Scrum framework, which are widely used for managing and delivering projects in an iterative and collaborative manner. Key topics covered include:
 
@@ -18,6 +18,6 @@ The "Agile and Scrum" document explains the Agile methodology and Scrum framewor
 
 The "Software Development Life Cycle" document provides an in-depth look at the SDLC, a process used for planning, creating, testing, and deploying software applications. Key topics covered include:
 
-- **Phases of SDLC**: Detailed descriptions of the various phases of the SDLC, including Requirements Analysis, Design, Implementation, Testing, Deployment, and Maintenance.
+- **Phases of SDLC**: Detailed descriptions of the various phases of the SDLC, including Analysis, Design, Implementation, Testing, Deployment, and Maintenance.
 - **Models of SDLC**: Different models of the SDLC, such as Waterfall, V-Model, Incremental, and Agile, and their respective advantages and disadvantages.
 - **Best Practices**: Recommended best practices for each phase of the SDLC to ensure the successful delivery of high-quality software projects.
