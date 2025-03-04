@@ -1,5 +1,5 @@
  # Course Documentation
- *This repository contains documentation for topics covered in the full-stack .Net development course. Below are detailed descriptions of four key documents included in this repository: Agile and Scrum, and Software Development Life Cycle (SDLC).*
+ *This repository contains documentation for topics covered in the full-stack .Net development course. Below are detailed descriptions of four key documents included in this repository: Agile and Scrum, and Software Development Life Cycle (SDLC), Web development stacks and git version control.*
  
  ## Table of Contens
 
@@ -124,3 +124,5 @@ Here is a set of essential Git commands along with their descriptions:
 | `git pull` | Fetches and integrates changes from the remote repository. |
 
 ---
+
+<img src="git commands.png" alt="SDLC image" width="600" height="300">
