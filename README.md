@@ -83,3 +83,44 @@ A **web development stack** is a set of tools and technologies used to build web
 - **Service**: Stripe
   
 <img src=".net full stack.jpg" alt="SDLC image" width="600" height="300">
+
+## Git Version Control  
+
+### Overview  
+Git is a **distributed version control system (VCS)** used to track changes in source code during software development. It is widely used for **speed, efficiency, and collaboration**.  
+
+### Why Use Git?  
+- **Version Control**: Keep track of changes and revert to previous versions if needed.  
+- **Cloud Backup**: Store code in a remote repository to prevent data loss.  
+- **Collaboration**: Work with teams remotely on the same project.  
+
+### Cloud Repositories  
+
+There are many cloud repositories that use Git for version control. The most popular ones are:  
+
+- **GitHub**: The most popular cloud-based Git repository, ideal for open-source projects and enterprise development.  
+- **GitLab**: A complete DevOps platform offering Git repository hosting with built-in CI/CD.  
+- **Azure Repos**: Microsoft’s Git-based repository solution integrated with Azure services and DevOps tools.  
+
+### Git Commands  
+
+Here is a set of essential Git commands along with their descriptions:  
+
+| Command | Description |
+|---------|------------|
+| `git config --global user.name "Your Name"` | Sets the username for Git commits. |
+| `git config --global user.email "your.email@example.com"` | Sets the email for Git commits. |
+| `git init` | Initializes a new Git repository in the current directory. |
+| `git clone <repository_URL>` | Creates a copy of a remote repository on your local machine. |
+| `git status` | Shows the status of changes in the working directory. |
+| `git log --oneline` | Shows commit history in a compact format. |
+| `git log` | Displays commit history. |
+| `git diff` | Shows changes between the working directory and the last commit. |
+| `git add <file>` | Stages a specific file for the next commit. |
+| `git commit -m "Commit message"` | Commits staged files with a descriptive message. |
+| `git remote add origin <repository_URL>` | Connects a local repository to a remote one. |
+| `git branch` | Lists all branches in the repository. |
+| `git push origin <branch_name>` | Pushes changes to a remote repository. |
+| `git pull` | Fetches and integrates changes from the remote repository. |
+
+---
