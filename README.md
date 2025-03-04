@@ -30,9 +30,9 @@ The "Software Development Life Cycle" document provides an in-depth look at the 
 
 <img src="SDLC.png" alt="SDLC image" width="600" height="300">
 
-##web development stacks
+## web development stacks
 
-# Overview  
+### Overview  
 In web applications, we have three main layers, each with its own services:  
 - **Data Tier**: Database services  
 - **Logic Tier**: Backend services  
@@ -40,7 +40,7 @@ In web applications, we have three main layers, each with its own services:
 
 A **web development stack** is a set of tools and technologies used to build web applications.
 
-# Popular Web Development Stacks  
+### Popular Web Development Stacks  
 - **.NET Stack**: Uses C#, SQL Server, and the .NET framework. Ideal for high-performance web applications.  
 - **MERN Stack**: MongoDB, Express.js, React, and Node.js.  
 - **MEAN Stack**: Similar to MERN but uses Angular instead of React.  
@@ -49,36 +49,37 @@ A **web development stack** is a set of tools and technologies used to build web
 - **PERN Stack**: Similar to MERN but with PostgreSQL instead of MongoDB.  
 - **Ruby on Rails Stack**: Uses Ruby on Rails along with HTML, CSS, and JavaScript, known for security and simplicity.  
 
-# .NET Full-Stack Development  
+### .NET Full-Stack Development  
 
-# **Frontend**  
+### **Frontend**  
 - **Client-side rendering**: Blazor, Angular, Next.js  
 - **Server-side rendering**: MVC, Blazor  
 - **IDE**: Visual Studio Code  
 
-# **Backend**  
+### **Backend**  
 - **Language**: C#  
 - **Framework**: .NET Core  
 - **IDE**: Visual Studio + SSMS  
 - **API Development**: Connects frontend and backend  
 
-# **Database**  
+### **Database**  
 - **Database**: SQL Server  
 - **ORM**: Entity Framework  
 
-# **Testing**  
+### **Testing**  
 - **API Testing**: Postman  
 - **Unit Testing**: xUnit  
 
-# **Deployment**  
+### **Deployment**  
 - **Technologies**: Docker, Azure  
 
-# **Security**  
+### **Security**  
 - **Standard**: OWASP  
 
-# **Logging**  
+### **Logging**  
 - **Tool**: Serilog  
 
-# **Payment Gateway**  
-- **Service**: Stripe  
-
+### **Payment Gateway**  
+- **Service**: Stripe
+  
+<img src=".net full stack.jpg" alt="SDLC image" width="600" height="300">
