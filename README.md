@@ -5,8 +5,8 @@
 
 - [Agile and Scrum](#agile-and-scrum)
 - [Software Development Life Cycle (SDLC)](#software-development-life-cycle-sdlc)
-- [web development stacks](#web-development-stacks)
-- [git version control](#git-virsion-control)
+- [Web development stacks](#Web-development-stacks)
+- [Git Version Control](#Git-Version-Control)
 
 ## Agile and Scrum
 
@@ -30,7 +30,7 @@ The "Software Development Life Cycle" document provides an in-depth look at the 
 
 <img src="SDLC.png" alt="SDLC image" width="600" height="300">
 
-## web development stacks
+## Web development stacks
 
 ### Overview  
 In web applications, we have three main layers, each with its own services:  
