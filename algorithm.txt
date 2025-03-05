@@ -1,0 +1,53 @@
+1.Sequential Algorithm
+function sum(x,y)
+  z=x+y
+  return z
+end function
+
+
+2. Iterative Algorithm (Using Loops) 
+function factorial(n)
+	result = 1
+	for i=1 to n:
+		do result = result * 1
+	end for loop
+	return result
+end function
+
+
+3. Recursive Algorithm (Function Calls Itself) 
+function factorial(n):
+	if n == 0:
+		return 1
+	return n* factorial(n-1)
+end function
+
+
+1. Find the Largest Number in a List:
+function largestNum(list):
+	for each element in list:
+		set largest num = first element in list
+		check if element is greater than largest:
+			update largest to element
+	end for loop
+return largest
+end function
+
+2. Count the Number of Vowels in a String:
+function countVowels(string):
+	count = 0
+	for each letter in string:
+		if letter is 'a', 'e', 'i', 'o', or 'u': 
+			increament count by 1
+	end for loop
+return count
+end function
+
+3. Reverse a String :
+function reverseWord(string):
+	word = ""
+	for each letter from the end of word:
+		add letter to word
+	end for loop
+return word
+end function
