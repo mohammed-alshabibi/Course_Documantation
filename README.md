@@ -137,11 +137,59 @@ This repository contains different types of algorithms that demonstrate fundamen
 
 #### 1. Sequential Algorithm  
 A **sequential algorithm** executes step by step in a linear order, without using loops or recursion. It is the simplest type of algorithm.  
-
-#### Example: Sum of Two Numbers  
 ```pseudo
+function sum(x,y)
+  z=x+y
+  return z
+end function
+```
+
+#### 2. Iterative Algorithm (Using Loops)
+An **iterative algorithm** repeats a set of instructions using loops until a condition is met. It is useful for tasks requiring repetition, such as calculating a factorial.
+```pseudo
+function factorial(n)
+  result = 1
+  for i = 1 to n:
+    result = result * i
+  end for loop
+  return result
+end function
+```
+
+#### 3. Recursive Algorithm (Function Calls Itself)
+A **recursive algorithm** solves a problem by calling itself with a smaller input until a base case is reached. It is useful for problems that can be broken down into smaller subproblems.
+```pseudo
+function factorial(n):
+  if n == 0:
+    return 1
+  return n * factorial(n - 1)
+end function
+```
+
+#### Examples:   
+```pseudo
+#Sum of Two Numbers
 function sum(x, y)
   z = x + y
   return z
 end function
 
+#Find the Largest Number in a List
+function largestNum(list):
+  largest = first element in list
+  for each element in list:
+    if element > largest:
+      largest = element
+  end for loop
+  return largest
+end function
+
+#Count the Number of Vowels in a String
+function countVowels(string):
+  count = 0
+  for each letter in string:
+    if letter is 'a', 'e', 'i', 'o', or 'u': 
+      count += 1
+  end for loop
+  return count
+end function
