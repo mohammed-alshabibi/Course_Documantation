@@ -7,6 +7,7 @@
 - [Software Development Life Cycle (SDLC)](#software-development-life-cycle-sdlc)
 - [Web development stacks](#Web-development-stacks)
 - [Git Version Control](#Git-Version-Control)
+- [Algorithm Examples](#Algorithm-Examples)  
 
 ## Agile and Scrum
 
@@ -126,3 +127,21 @@ Here is a set of essential Git commands along with their descriptions:
 ---
 
 <img src="git commands.png" alt="SDLC image" width="600" height="300">
+
+## Algorithm Examples  
+
+### Introduction  
+This repository contains different types of algorithms that demonstrate fundamental programming concepts. These include **sequential, iterative, and recursive approaches**, along with common problem-solving techniques such as finding the largest number in a list, counting vowels in a string, and reversing a string.  
+
+### Algorithm Types  
+
+#### 1. Sequential Algorithm  
+A **sequential algorithm** executes step by step in a linear order, without using loops or recursion. It is the simplest type of algorithm.  
+
+#### Example: Sum of Two Numbers  
+```pseudo
+function sum(x, y)
+  z = x + y
+  return z
+end function
+
