@@ -197,4 +197,7 @@ end function
 ```
 
 ## Flowchart Design Of Algorithm
+### flowchart search of max number
 <img src="flowchart/flowchart search of max number.png" alt="SDLC image" width="600" height="600">
+### flowchart revers word
+<img src="flowchart/flowchart revers word.png" alt="SDLC image" width="600" height="600">
