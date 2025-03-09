@@ -7,7 +7,8 @@
 - [Software Development Life Cycle (SDLC)](#software-development-life-cycle-sdlc)
 - [Web development stacks](#Web-development-stacks)
 - [Git Version Control](#Git-Version-Control)
-- [Algorithm Examples](#Algorithm-Examples)  
+- [Algorithm Examples](#Algorithm-Examples)
+- [Flowchart Design Of Algorithm](#Flowchart-Design-Of-Algorithm)  
 
 ## Agile and Scrum
 
@@ -193,3 +194,7 @@ function countVowels(string):
   end for loop
   return count
 end function
+```
+
+## Flowchart Design Of Algorithm
+<img src="flowchart search of max number.png" alt="SDLC image" width="600" height="300">
